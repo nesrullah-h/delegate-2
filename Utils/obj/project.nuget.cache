@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8Y7hOaePTVuoCG1nGk6mWMVBB7W5sCQywDDvqdd1z9dvCWHYQ7IpeHva3Z5yqYofCaQJIpJpOAqBCySawdraA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\ConsoleApp2\\Utils\\Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.powerbi.api\\4.5.0\\microsoft.powerbi.api.4.5.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
